@@ -1,2 +1,28 @@
 # TaskFlow
-A Functional website where you can organize tasks and watch your progress in real time!, built using react with the objective to learn more about it. :)
+
+A task management web app built with React that allows users to organize tasks and track their progress in real time.
+
+## Features
+- Add and remove tasks
+- Mark tasks as completed
+- Real-time UI updates
+- Clean and responsive interface
+
+## Tech Stack
+- React
+- JavaScript
+- CSS
+
+## Purpose
+This project was built to practice React fundamentals such as state management and component-based architecture.
+
+## Future Improvements
+- Task persistence 
+- Filters (completed / pending)
+- Animations
+- BackEnd
+
+## What I Learned
+- useState na prática
+- Lists Manipulation
+- Components, hooks
