@@ -23,6 +23,6 @@ This project was built to practice React fundamentals such as state management a
 - BackEnd
 
 ## What I Learned
-- useState na prática
+- useState
 - Lists Manipulation
 - Components, hooks
