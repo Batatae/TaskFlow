@@ -1,0 +1,50 @@
+
+*{
+  transition: all 0.3s ease;
+  font-family: Mainfont, Verdana, Geneva, Tahoma, sans-serif;
+
+  --ink-black: #0F1020;
+  --dark-amethyst: #2F195F;
+  --deep-lilac: #7353BA;
+  --royal-gold: #F4D35E;
+  --lemon-chiffon: #FAF0CA;
+}
+
+@font-face {
+  font-family: Simple;
+  src: url(assets/fonts/simple-diary/Simple-Diary.otf);
+}
+
+@font-face {
+  font-family: TaskFlow;
+  src: url(assets/fonts/yourdestiny/Enlighten\ your\ Destiny.ttf);
+}
+
+@font-face {
+  font-family: Mainfont;
+  src: url(assets/fonts/mainfont/Simple\ Beach.ttf);
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background-color: var(--ink-black);
+}
+
+.TaskFlow {
+  font-family: TaskFlow, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main-container{
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
